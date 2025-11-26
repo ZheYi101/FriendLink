@@ -1,5 +1,29 @@
 [
   {
+    "class_name": "暖州中学",
+    "class_desc": "籀园清风",
+    "link_list": [
+      {
+        "name": "那年Apple雪"
+      },
+      {
+        "link": "https://applnow.github.io/"
+      },
+      {
+        "avater": "https://avatars.githubusercontent.com/u/236740325?v=4"
+      },
+      {
+        "descr": "touhou大蛇"
+      },
+      {
+        "name": "主播的博客",
+        "link": "https://dimlyl.github.io/",
+        "avatar": "https://cdn.luogu.com.cn/upload/usericon/123026.png",
+        "descr": "主播带我打只狼"
+      }
+    ]
+  },
+  {
     "class_name": "浙里OI",
     "class_desc": "OIer",
     "link_list": [
